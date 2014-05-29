@@ -163,3 +163,4 @@
 .all-factory .pb5{
 	padding-bottom: 20px;
 }
+#slider-range .ui-slider-range:first-child{visibility: hidden;}
