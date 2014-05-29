@@ -1,0 +1,283 @@
+.text1{
+	font-size: 13px;
+	line-height: 24px;
+	color: #414141;
+	padding: 20px 31px 30px;
+	margin: 0;
+}
+.number_reviews,.overall_rating{
+	display: block;
+	color: #858585;
+	font: 300 14px/24px 'Exo 2', sans-serif;
+}
+.number_reviews span{
+	color: #414141;
+	font-weight: 400;
+	padding-left: 10px;
+}
+.testimonial_box_top{
+	padding: 0 31px 33px;
+	border-bottom: 1px solid #f6f6f6;
+}
+.write_review{
+	width: 183px;
+	margin-right: 46px;
+	margin-top: 5px;
+}
+
+.star_gray{
+	display: inline-block;
+	height: 14px;
+	width: 83px;
+	background: url(../images/star_gray_icon.png) 0 0 repeat-x;
+	margin-top: 6px;
+	margin-left: 10px;
+}
+.star_gold{
+	display: block;
+	height: 14px;
+	width: 85%;
+	background: url(../images/star_gold_icon.png) 0 0 repeat-x;
+}
+
+.yandex_review_number{
+	display: block;
+	font: 500 14px/24px 'Exo 2', sans-serif;
+}
+.yandex_review_number span{padding:0 3px;}
+
+
+
+.comment_it{
+	width: 440px;
+	padding-left: 30px;
+}
+.name{
+	display: block;
+	font-size: 13px;
+	line-height: 24px;
+	font-weight: 600;
+	color: #414141;
+}
+.name time{
+	font-weight: 400;
+	color: #acacac;
+	padding-left: 15px;
+}
+.city{
+	font-size: 12px;
+	line-height: 24px;
+	font-weight: 400;
+	color: #acacac;
+	padding-right: 5px;
+	display: inline-block;
+	padding-bottom: 15px;
+}
+.comment_text{
+	font-size: 13px;
+	line-height: 24px;
+	font-weight: 400;
+	color: #414141;
+}
+.comment_level1,.comment_level2{padding-bottom: 10px;}
+.comment_level2{padding-left: 68px;}
+.comment_level2 .comment_it{
+	width: 380px;
+	padding-top: 18px;
+}
+/*scroll*/
+.scroll-pane{
+	margin: 0;
+}
+.flaxslider_it{
+	border-bottom: 2px solid #f6f6f6;
+	display: inline-block;
+	width: 585px;
+	padding: 23px 30px 20px;
+	min-height: 362px;
+	border-right: 2px solid #f6f6f6;
+	white-space: normal;
+	
+}
+.photo{
+	margin-top: 7px;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+}
+/*.flex-control-nav{display: none;}
+.flex-direction-nav a{
+	position: absolute;
+	display: block;
+	width: 15px;
+	height: 15px;
+	text-indent: -999999px;
+}*/
+
+.horizontal-only{
+	min-height: 430px;
+	padding-bottom: 23px;
+}
+.scrollBox{
+	padding-bottom: 20px;
+}
+
+.testimonial_box{
+	margin-bottom: 30px;
+}
+.leave_com_box{
+	padding:0 20px 0 30px;
+}
+	.inp_box3{
+		width: 44.84304932735426%;
+	}
+.your_rating{
+	display: block;
+	font-size: 13px;
+	line-height: 24px;
+	color: #826d63;
+	font-weight: 600;
+	margin-top: 10px;
+}
+.order_number{
+	display: block;
+	font-size: 13px;
+	line-height: 43px;
+	color: #826d63;
+	font-weight: 600;
+}
+.order_number input{
+	width: 135px;
+	margin-left: 15px;
+}
+#leave_comment .knob{margin: 0;}
+.testimonial .title3{
+	font-size: 14px;
+	line-height: 24px;
+	color: #392f2c;
+	font-weight: 600;
+}
+
+.rating{display: inline-block; /*margin-top: 6px;*/}
+.vote-stars,.vote-active{height: 15px !important;}
+.testimonial .swiper-slide{padding: 0;text-align: left;}
+.swiper-container{height: auto;padding-bottom: 32px;}
+.swiper-scrollbar{
+	width: auto;
+	left: 30px;
+	right: 95px;
+	opacity: 1 !important;
+	filter: alpha(opacity=100) !important;
+}
+.testimonial .leave_com_left{padding-top: 0;padding-right: 54px;width: 64.999999999%;}
+.testimonial .leave_com_right{width: 35%;padding-top: 0;}
+.testimonial .contact_icon{width: 55px;}
+.testimonial .contact_icon span{width: 55px; height: 55px;}
+.testimonial .tabs_list2_it{padding-left: 36px; padding-bottom: 3px; padding-right: 0;}
+.testimonial .contact_it{width: 81%;}
+.testimonial .btn_sub{width: 183px;}
+.swiper-scrollbar-drag{
+	height: 8px;
+	margin-top: -2px;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+.arrow-left,.arrow-right{
+	position: absolute;
+	display: block;
+	width: 15px;
+	height: 15px;
+	bottom: 0px;
+	right: 50px;
+	z-index: 9999;
+	background: url(../images/flex-direction-nav.png) 0 center no-repeat;
+}
+.arrow-right{
+	background: url(../images/flex-direction-nav.png) right center no-repeat;
+	right: 30px;
+}
+.home_page .arrow-left,.home_page .arrow-right{
+	bottom: 0;
+}
+
+/*==================================RESPONSIVE LAYOUTS===============================================*/
+@media only screen and (max-width: 1040px) {
+ body{min-width:940px;}
+ .tabs_list2_it{
+ 	/*padding-left: 0;*/
+ }
+ .inp_box3{
+ 	width: 60%;
+ 	float: left;
+ 	padding-bottom: 20px;
+ }
+ .testimonial .leave_com_left{
+ 	padding-right: 35px;
+ 	padding-top: 27px;
+ 	width: 60%;
+ }
+ .enter{margin-bottom: 42px !important;}
+ .button1{margin-right: 0;}
+ .write_review{margin-right: 10px;}
+ .h112{margin-bottom: 20px;}
+ .contacts_label{padding: 0;}
+ .tabs_list2_it{/*padding: 0;*/}
+ .tabs_list2_it:last-child{padding-top: 50px;}
+ .testimonial .leave_com_right{
+ 	padding-top: 27px;
+ 	width: 40%;
+ 	float: left;
+ 	padding-left: 37px;
+ }
+ .pt38{padding-top: 38px;}
+ .contact_it{padding-left: 40px;}
+ .contact_icon span{/*width: 60px;height: 60px;*/}
+.order_number input{width: 97px;}
+.testimonial .tabs_list2_it{padding-left: 0;}
+.testimonial .contact_it{
+	padding-left: 18px;
+	width: 80%;
+}
+}
+
+
+
+@media only screen and (max-width: 959px) {
+ body{min-width:761px;}
+ .leave_com_left{width: 45%;}
+ .leave_com_right{width: 54%;}
+ .inp_box3{
+ 	width: 100% !important;
+	float: left;
+ }
+ .tabs_list2_it{padding-bottom: 50px;}
+ .order_number{float: left;}
+ .pad0{padding: 0 !important;}
+ .contact_icon span{/*width: 60px;height: 60px;*/}
+ .contact_it {
+	padding-left: 40px;
+ }
+.testimonial .contacts_label{padding-top: 0;}
+.order_number input{width: 135px;}
+.testimonial .leave_com_left,.testimonial .leave_com_right{width: 50%;}
+.order_number{margin-bottom: 20px;}
+}
+
+@media only screen and (max-width: 767px) {
+ body{min-width:460px;}
+ .testimonial .leave_com_left,.testimonial .leave_com_right{
+ 	float: none;
+ 	width: auto;
+ 	border: none;
+ 	padding: 15px 15px 20px;
+ }
+ .testimonial .leave_com_left{border-bottom: 2px solid #f6f6f6;}
+ .testimonial .leave_com_box{padding: 0;}
+ .testimonial .btn_sub{width: 100%;}
+ .testimonial .enter{margin-right: 0;}
+
+
+ /*index*/
+ .title-tab-header{display: block !important;position: static !important;}
+}

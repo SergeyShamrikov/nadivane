@@ -1,0 +1,149 @@
+.vacancy_box_col1{
+	padding: 20px 33px 33px 30px;
+	width: 56.92307692307692%;
+	
+}
+.vacancy_box_col2{
+	padding: 25px 0 50px;
+	width: 43.07692307692308%;
+	border-left: 2px solid #f6f6f6;
+}
+	.accordion_it{
+		padding: 0 8px 0 24px;
+	}
+	.vacancy_condition{padding-bottom: 30px;}
+	.salary_schedule{
+		padding: 23px 0 21px;
+		border-bottom: 2px solid #f6f6f6;
+	}
+		.salary_icon{
+			padding-left: 37px;
+			font: 500 16px/27px 'Exo 2', sans-serif;
+			color: #818181;
+			background: url(../images/vacancy_icon.png) 0 0 no-repeat;
+		}
+			.salary_icon strong{
+				color: #414141;
+				font-weight: 700;
+				padding-left: 7px;
+			}
+			.percent_salary{
+				color: #414141;
+				font-weight: 500;
+				padding-left: 6px;
+			}
+			.percent_salary:after{
+				display: inline-block;
+				width: 27px;
+				height: 27px;
+				text-align: center;
+				background-color: #e6e6e6;
+				-webkit-border-radius: 100%;
+				-moz-border-radius: 100%;
+				border-radius: 100%;
+				margin-left: 8px;
+				font-weight: 700;
+				content: "%"
+			}
+
+		.schedule{
+			padding:0 30px 0 34px;
+			font: 500 16px/27px 'Exo 2', sans-serif;
+			color: #818181;
+			background: url(../images/schedule_icon.png) 0 3px no-repeat;
+		}
+		 .schedule strong{
+		 	color: #414141;
+		 	padding-left: 10px;
+		 }
+	.vacancy_title{
+		font-weight: 600;
+		font-size: 14px;
+		line-height: 24px;
+		color: #414141;
+		margin-top: 16px;
+	}
+	.vacancy_list{
+		margin-bottom: 8px;
+	}
+		.vacancy_list_it{
+			font-size: 13px;
+			line-height: 24px;
+			color: #414141;
+			padding-left: 20px;
+			padding-bottom: 9px;
+			background: url(../images/vacancy_list_marker.png) 0 10px no-repeat;
+		}
+	.vacancy_more,.back_vacancy{
+		display: inline-block;
+		font-size: 13px;
+		line-height: 24px;
+		color: #c3b399;
+		font-style: italic;
+		padding: 0 20px 0;
+		background: url(../images/vacancy_more_arr.png) right 10px no-repeat;
+	}
+	.vacancy_more:hover,.back_vacancy:hover{color: #d4caba;text-decoration: underline;}
+
+	
+	.vacancy_offers_list{
+		padding: 0 0 11px 47px;
+		margin-bottom: 0;
+		border-bottom: 2px solid #f6f6f6;
+	}
+		.vacancy_offers_it{
+			padding-bottom: 33px;
+		}
+			.vacancy_offers_it span{
+				display: block;
+				width: 74px;
+				height: 74px;
+				text-align: center;
+				vertical-align: middle;
+				-webkit-border-radius: 100%;
+				-moz-border-radius: 100%;
+				border-radius: 100%;
+			}
+				.salary1_icon{background: url(../images/salary1_icon.png) center center no-repeat;}
+				.team_icon{background: url(../images/team_icon.png) center center no-repeat;}
+				.career_icon{background: url(../images/career_icon.png) center center no-repeat;}
+
+			.vacancy_offers_text{
+				width: 80.54716981132075%;
+				font-size: 16px;
+				line-height: 24px;
+				color: #594a47;
+				padding: 24px 0 0 21px;
+				margin-bottom: 0;
+			}
+	.vacancy_reviews{
+		padding: 44px 30px 0 33px;
+	}
+		.vacancy_reviews_quote{
+			font-size: 13px;
+			line-height: 24px;
+			color: #414141;
+			padding: 0 0 0 40px;
+			position: relative;
+			border: none;
+			margin: 0;
+			width: 71%;
+		}
+		.vacancy_reviews_photo{width: 106px;}
+		.vacancy_reviews_photo img{
+			-webkit-border-radius: 100%;
+			-moz-border-radius: 100%;
+			border-radius: 100%;
+			padding-top: 3px;
+			width: 100%;
+		}
+		.vacancy_reviews_quote:before{
+			content: "";
+			display: block;
+			position: absolute;
+			width: 14px;
+			height: 12px;
+			top: 6px;
+			left: 17px;
+			background: url(../images/vacancy_reviews_quote.png) 0 0 no-repeat;
+		}

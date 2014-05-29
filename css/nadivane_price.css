@@ -1,0 +1,163 @@
+@import url(nadivane_price.css);
+
+body{
+	font: 13px/18px 'Open Sans', Helvetica, sans-serif;
+	color: #414141;
+	background-color: #fff;
+	
+}
+#content{
+	background-color: #fff;
+	width: 870px;
+	height: 779px;
+	margin: 0 auto;
+	padding-top: 37px;
+}
+
+.price_img{
+	width: 250px;
+	margin-left: 43px;
+}
+.inc_price{
+	background: url("../images/price.png") 50% 50% no-repeat;
+	background-color: #48b04f;
+	height: 205px;
+	width: 205px;
+	display: block;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-o-border-radius: 50%;
+	border-radius: 50%;
+}
+.price_inf{width: 519px;}
+.tabs_title1 {
+	font: 700 21px 'Exo 2', sans-serif;
+	color: #473b39;
+	padding-left: 0px;
+	padding-top: 4px;
+	padding-bottom: 1px;
+	margin-bottom: 4px;
+}
+.tabs_title2 {
+	font: 500 16px/24px 'Open Sans', Helvetica, sans-serif;
+	color: #414141;
+	padding-left: 0px;
+	margin-bottom: 28px;
+}
+input[type="email"], textarea, #thems-styler {
+	color: #826d63;
+	font-size: 13px;
+	line-height: 18px;
+	width: 307px;
+	height: 47px;
+	border: 2px solid #e7e3dd; 
+	outline: none;
+	padding-left: 12px;
+
+}
+.button1 {
+	height: 47px;
+	font: 700 14px 'Exo 2', sans-serif;
+	text-transform: uppercase;
+	background-color: #f39b2f;
+	border: none;
+	outline: none;
+	color: #fff;
+	text-align: center;
+}
+.button1:hover {
+	background-color: #EC8404;
+}
+.btn_sub2 {
+	width: 189px;
+}
+.modal1{
+	background-color: #fff;
+}
+.foot{
+	border-bottom: 2px solid #f6f6f6; 
+	padding-bottom: 30px;
+	position: relative;
+}
+.tabs_title3 {
+	border-bottom: 2px solid #f6f6f6;
+	font: 600 18px 'Exo 2', sans-serif;
+	color: #473b39;
+	margin: 0px;
+	padding: 18px 0 20px 31px;
+}
+.swiper-scrollbar-drag {
+height: 8px;
+margin-top: -2px;
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+}
+.arcticmodal-close{
+	font-size: 17px;
+	position: absolute;
+	right: 30px;
+	top: 14px;
+}
+.title{
+	color:#8c8c8c;
+}
+.old-price1 {
+	font: 12px 'Open Sans', Helvetica, sans-serif;
+	color: #414141;
+	padding-right: 10px;
+}
+.padr5{
+	padding-right: 5px;
+}
+.buy-credit, .buy-credit:hover {
+	font-family: 'Exo 2', sans-serif;
+	border: none;
+	background: url(../images/nadivane_basket.png) 15% 50% no-repeat;
+	background-color: #c9b499;
+	color: #fff;
+	display: -moz-inline-stack;
+	display: inline-block;
+	vertical-align: top;
+	zoom: 1;
+	vertical-align: top;
+	font-size: 13px;
+	line-height: none;
+	width: 227px;
+	height: 49px;
+	margin: 22px 0 0 0;
+	padding: 16px 0 0 35px;
+}
+.swiper-slide .slide{
+	white-space: normal;
+	display: inline-block;
+	width: 290px;
+	min-height: 348px;
+	text-align: center;
+	position: relative;
+	padding: 20px 0px 0px;
+	border-left: 2px solid #f6f6f6;
+	border-bottom: 2px solid #f6f6f6;
+}
+
+.marker2{
+	position: absolute;
+	padding-left:16px;
+	top: 16px;
+}
+.marker2 h5{
+	margin: 0;
+	color: #74b048;
+	font: 10px/20px 'Open Sans', Helvetica, sans-serif; 
+}
+.mark2{
+	color:#fff;
+	font: 8px/20px 'Open Sans', Helvetica, sans-serif;
+	background-color: #74b048;
+	border-radius: 100%;
+	width: 24px;
+	height: 24px;
+	margin-right: 9px;
+}

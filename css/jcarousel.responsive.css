@@ -1,0 +1,167 @@
+.jcarousel-wrapper {
+    position: relative;
+    padding: 55px 0;
+}
+
+.slider .jcarousel-wrapper {
+    padding: 0;
+}
+
+/** Carousel **/
+
+.jcarousel {
+    position: relative;
+    overflow: hidden;
+    margin: 0 64px;
+}
+
+.slider .jcarousel {
+    margin: 0;
+}
+
+.jcarousel ul {
+    width: 20000em;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.jcarousel li {
+    width: 200px;
+    float: left;
+    text-align: center;
+}
+
+.slider .jcarousel li {
+    font-size: 0;
+    white-space: nowrap;
+    text-align: left;
+    position: relative;
+}
+
+.slider .jcarousel .large-photo {
+    display: -moz-inline-stack;
+    display: inline-block;
+    vertical-align: top;
+    zoom: 1;
+    *display: inline;
+    vertical-align: top;
+    width: 74%;
+    white-space: normal;
+}
+
+.slider .jcarousel .special-col {
+    position: absolute;
+    right: 0;
+    top: 0; bottom: 0;
+    width: 27%;
+    white-space: normal;
+}
+
+.jcarousel img {
+    display: inline-block;
+    max-width: 100%;
+}
+
+/** Carousel Controls **/
+
+.jcarousel-control-prev,
+.jcarousel-control-next{
+    position: absolute;
+    top: 50%;
+    margin-top: -16px;
+    
+    text-indent: -999em;
+}
+.jcarousel-control-prev span,
+.jcarousel-control-next span{
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+
+.slider .jcarousel-control-prev,
+.slider .jcarousel-control-next {
+    border: 8px solid #f3f0e9;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+          background-color: #f3f0e9;
+}
+.jcarousel-control-prev{left: 20px;}
+.jcarousel-control-prev span{
+    background-image: url("../images/arrs_flex.png");
+    background-position: 50% 0;
+}
+
+.slider .jcarousel-control-prev {
+    left: -20px;
+}
+
+.jcarousel-control-next{right: 20px;}
+.jcarousel-control-next span{
+    background-image: url("../images/arrs_flex.png");
+    background-position: 50% bottom;
+}
+
+.slider .jcarousel-control-next {
+    right: -20px;
+}
+
+.jcarousel-control-prev:hover span,.jcarousel-control-next:hover span{
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+
+/** Carousel Pagination **/
+
+.jcarousel-pagination {
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+    margin: 0;
+}
+
+.jcarousel-pagination a {
+    text-decoration: none;
+    display: inline-block;
+
+    font-size: 11px;
+    height: 10px;
+    width: 10px;
+    line-height: 10px;
+
+    background: #fff;
+    color: #4E443C;
+    border-radius: 10px;
+    text-indent: -9999px;
+
+    margin-right: 7px;
+
+
+    -webkit-box-shadow: 0 0 2px #4E443C;
+    -moz-box-shadow: 0 0 2px #4E443C;
+    box-shadow: 0 0 2px #4E443C;
+}
+
+.jcarousel-pagination a.active {
+    background: #4E443C;
+    color: #fff;
+    opacity: 1;
+
+    -webkit-box-shadow: 0 0 2px #F0EFE7;
+    -moz-box-shadow: 0 0 2px #F0EFE7;
+    box-shadow: 0 0 2px #F0EFE7;
+}

@@ -1,0 +1,6 @@
+{behavior:url(js/PIE.htc);position:relative;}
+.about_menu_it3:hover,.about_menu_it1:hover,.img_box:hover{
+	-webkit-box-shadow: 0 3px 15px #cfcecb;
+	-moz-box-shadow: 0 3px 15px #cfcecb;
+	box-shadow: 0 3px 15px #cfcecb;
+}

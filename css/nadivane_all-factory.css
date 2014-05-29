@@ -1,0 +1,165 @@
+@import url(nadivane_all-factory.css);
+
+
+
+/*basic class*/
+.wrapper1{overflow: hidden;}
+
+
+.all-factory .search{
+	width: 223px;
+	border-top:none; 
+	padding: 0px 0 0 0; 
+	position: relative;
+	margin: 0;	
+	display: inline-block;
+}
+.all-factory .search input[type="text"] {
+	border: 2px solid #e7e3dd;
+	background-color: #fff;
+	margin: 0px 0 0;
+	padding: 12px 0px 11px 39px;
+	font: 12px 'Roboto', sans-serif;
+	font-style: italic;
+	color: #c3b399;
+	width: 100%;
+	height: auto;
+}
+.factory_item2{
+	border: 2px solid #e7e3dd;
+	width: 209px;
+	color: #816d63; 
+	margin: -4px 21px 0 0;
+	height: 43px;
+}
+.factory-text{
+	font: 13px 'Roboto', sans-serif;
+	padding: 14px 14px 0 32px;
+	color: #a6a6a6;
+}
+.all-factory .search input[type="submit"] {
+	background: url("../images/bttn-search.png") no-repeat 50% 65%;
+	width: 40px;
+	height: 38px;
+	border: none;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.factory_category{padding-bottom: 23px;border-bottom: 2px solid #f6f6f6;}
+/*=================================Table===================================*/
+.title_bg_gray{color: #8c8c8c;}
+.all-factory .catalog_table_img img{
+	width: auto;
+	float: left;
+}
+.all-factory .catalog_table_cell1{
+	width: 20.99056603773585%;
+	text-align: center;
+	background-color: #faf9f6;
+}
+.all-factory .catalog_table_cell2{
+	width: 34.55188679245283%;
+	border-right: 2px solid #f1f1f1;
+	padding-left: 40px;
+}
+.all-factory .catalog_table_cell3{
+	width: 39.2688679245283%;
+	text-align: center;
+}
+.all-factory .catalog_list_lk1{
+	bottom: 19px;
+	left: 0px;
+	font-style: normal;
+	color: #c4b29a;
+	font: 500 13px/24px 'Exo 2', sans-serif;
+	background: url(../images/vacancy_more_arr.png) right 10px no-repeat;
+	padding: 0 19px 0 0;
+	position: absolute;
+}
+.all-factory .img-niere{
+	background: url("../images/img-niere.png") no-repeat 0 0;
+	width: 159px;
+	height: 59px;
+	display: inline-block;
+	margin: 25px 0 0 30px;
+}
+.all-factory .img-natisa{
+	display: inline-block;
+	height: 36px;
+	width: 177px;
+	background: url("../images/img-natisa.png") no-repeat 0 0;
+	margin: 25px 0px 0px 0px;
+}
+.all-factory .img-idealsedia{
+	display: inline-block;
+	height: 46px;
+	width: 170px;
+	background: url("../images/img-idealsedia.jpg") no-repeat 0 0;
+	margin: 25px 0px 0px 0px;
+}
+.all-factory .img-serico{
+	display: inline-block;
+	height: 49px;
+	width: 168px;
+	background: url("../images/img-serico.png") no-repeat 0 0;
+	margin: 25px 0px 0px 0px;
+}
+.all-factory .img-colorislife{
+	display: inline-block;
+	height: 69px;
+	width: 150px;
+	background: url("../images/img-colorislife.png") no-repeat 0 0;
+	margin: 25px 0px 0px 0px;
+}
+.all-factory .img-optimata{
+	display: inline-block;
+	background: url("../images/img-optimata.png") no-repeat 0 0;
+	height: 69px;
+	width: 141px;
+	margin: 25px 0px 0px 0px;
+}
+.all-factory .img-cilek{
+	display: inline-block;
+	height: 64px;
+	width: 152px;
+	background: url("../images/img-cilek.png") no-repeat 0 0;
+	margin: 25px 0px 0px 0px;
+}
+.all-factory .catalog_categories_list{
+	display: inline-block;
+	width: 80%; 
+	vertical-align: top;
+	list-style: none;
+	padding: 20px 0 45px;
+	margin: 0;
+}
+.all-factory .catalog_categories_lk{
+	display: block;
+	font-size: 13px;
+	line-height: 30px;
+	color: #414141;
+}
+.all-factory .marker3{
+	position: static;
+	display: inline-block;
+	overflow: hidden;
+	padding-top: 20px;
+	margin-bottom: 20px;
+}
+.all-factory .catalog_table_img{
+	padding-bottom: 50px;
+}
+
+.all-factory .q_goods{
+	position: absolute;
+	top: 115px;
+	width: 100%;
+	font-size: 13px;
+	line-height: 24px;
+	color: #8c8c8c;
+	display: block;
+}
+.all-factory .pb5{
+	padding-bottom: 20px;
+}

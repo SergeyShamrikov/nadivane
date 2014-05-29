@@ -1,0 +1,90 @@
+@import url(nadivane_sale-page.css);
+.pr12{padding-right: 12px;}
+.mb29{margin-bottom: 29px;}
+.widt{width: 255px;}
+.vacancy_more{
+	padding: 0px 20px 0px 30px;
+	margin: 0;
+	font: 500 13px/24px 'Exo 2', sans-serif;
+}
+.page-img{width: 100%;}
+.page-text_item{padding: 0 30px 34px 30px;}
+.soc-icon{padding-left: 8px;}
+.soc-text{padding-top: 1px;}
+.social-icon{margin-top: 27px;margin-bottom: 28px;}
+.nadivane_sale-main .headline {
+	padding: 25px 0px 20px 30px;
+	border-bottom: 2px solid #f6f6f6;
+	font: 600 17px 'Exo 2', sans-serif;
+	text-transform: uppercase;
+	color: #594a47;
+	margin-bottom: 0;
+}
+.nadivane_sale-main .breadcrumbs {
+	display: block !important;
+	list-style: none;
+	padding-left: 0px;
+ 	margin-bottom: 0px; 
+}
+.sale-page-text{
+	padding-bottom: 34px;
+	margin: 0 -30px 0 -30px;
+	border-bottom: 2px solid #f6f6f6;
+}
+.nadivane_sale-page{padding-bottom: 31px;}
+.sale_page{
+	margin: 25px 30px 0 30px;
+}
+.nadivane_sale-main .city {
+	font-size: 12px;
+	line-height: 24px;
+	font-weight: 400;
+	color: #acacac;
+	padding-right: 0px;
+	display: inline-block;
+	padding-bottom: 0px;
+}
+.nadivane_sale-main .vacancy_more1{
+	color: #998972;
+	font: 500 13px/24px 'Exo 2', sans-serif;
+	font-style: normal;
+	padding: 0 117px 0 32px;
+	text-transform: none;
+	background: url("../images/sale_page-message.png") 0 0 no-repeat;
+}
+.nadivane_sale-main .vacancy_more1:hover{
+	color: #d4caba;
+	text-decoration: underline;
+}
+.nadivane_sale-main .like {
+	background: url("../images/icn-like2.png") 0 0 no-repeat;
+	width: 16px;
+	padding-left: 21px;
+	height: 16px;
+	margin-left: 98px;
+}
+.tick{
+	background: url("../images/sale_tick.png") 0 0 no-repeat;
+	width: 16px;
+	padding-left: 21px;
+	height: 16px;
+	margin-left: 27px;
+}
+.watch{
+	background: url("../images/sale_page-watch.png")0 0 no-repeat;
+	width: 27px;
+	height: 20px;
+	color:#8e8e8e;
+	font: 500 13px/20px 'Exo 2', sans-serif;
+	margin-left: 14px;
+	padding: 2px 0 5px 27px;
+}
+.img-sale-text{
+	font: 500 16px/22px 'Exo 2', sans-serif;
+	color:#998972;
+	padding: 20px 0 0 15px;
+}
+.jcarousel-control-next{top: 45%;}
+.col_right {
+	margin-bottom: 12px;
+}

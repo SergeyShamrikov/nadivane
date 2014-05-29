@@ -1,0 +1,183 @@
+@import url(nadivane_print.css);
+
+#modal3{
+	width: 1200px;
+	padding: 0 100px 0 100px;
+	display: block;
+	overflow: hidden;
+	background: #fff;
+	position: relative;
+}
+body{
+	font: 13px/18px 'Open Sans', Helvetica, sans-serif;
+	color: #414141;
+	background-color: #fff;
+}
+.contact-phones{
+	background: url("../images/icn-tel2.png") no-repeat 0 50%;	
+	height: 27px;
+	padding-top: 41px;
+	padding-left: 32px;
+	margin-left: 84px;
+}
+.contact{
+	font: 600 16px/23px 'Exo 2', sans-serif;
+	white-space: nowrap;
+	float: left;
+}
+.contact2{
+	padding-left: 38px;
+	font: 600 16px/23px 'Exo 2', sans-serif;
+	white-space: nowrap;
+	float: left;
+}
+.contact3{
+	padding-left: 83px;
+	font: 600 16px/23px 'Exo 2', sans-serif;
+	white-space: nowrap;
+	float: left;
+}
+.c-top-header, .c-middle-header {
+	margin-bottom: 25px;
+	margin-top: 28px;
+}
+.hotline{
+	font: 12px/15px 'Open Sans', Helvetica, sans-serif;
+	margin: 0;
+	color: #7c7c7c;
+}
+.letter_print{
+	position: absolute;
+	width: 16px;
+	height: 13px;
+	top: 35px;
+	right: 236px;
+	background: url("../images/letter_print.png") no-repeat;
+}
+.bor{border-bottom: 2px #f6f6f6 solid;}
+.pb14{padding-bottom: 24px;}
+.padl46{padding-left: 40px;}
+.padl17{padding-left: 11px;}
+.categ{
+	padding-top: 14px;
+	font: 12px 'Open Sans', Helvetica, sans-serif;
+	color: #797979;
+}
+.categ strong{color:#414141;}
+.categ:first-child{
+	padding-top: 25px;
+}
+.categories{margin-bottom: 45px;}
+.marker3{     /*добавить наследование*/
+	position: absolute;
+	padding-top: 15px;
+	padding-left: 26px;
+}
+
+
+/*.posit{
+	color: #fff;
+	width: 24px;
+	height: 24px;
+	background: url("../images/hit_print.png") 10% 50% no-repeat;
+}*/
+.info_img{
+	width: 461px;
+	height: 322px;
+}
+.name{
+	font: 600 21px/20px 'Exo 2', sans-serif;
+	overflow: hidden;
+	padding-left: 42px;
+	padding-bottom: 27px;
+	margin: 0;
+	color: #594a47;
+}
+.price1{
+	display: inline-block;
+}
+.new_price,.new-numb_price{
+	color:#b3b3b3;
+	display: block;
+	padding-left: 43px;
+	padding-bottom: 6px;
+}
+.new-numb_price{padding-bottom: 37px;}
+.old_price,.old-numb_price{
+	color:#b3b3b3;
+	display: block;
+	padding-left: 55px;
+	padding-bottom: 11px;
+}
+.new-numb_price{
+	font: 800 29px/25px 'Exo 2', sans-serif;
+	color: #414141;
+}
+.old-numb_price{
+	text-decoration: line-through;
+	color: #B4B4B4;
+	font: 500 23px/22px 'Exo 2', sans-serif;
+}
+.available{
+	overflow: hidden;
+	padding-left: 45px;
+	display: block;
+	margin-bottom: 34px;
+}
+.available_img{
+	height: 20px;
+	width: 31px;
+	background: url("../images/arrow_print.png") no-repeat;
+}
+.available_text{
+	font: 600 13px/20px 'Open Sans', Helvetica, sans-serif;
+	color:#584a47;
+}
+.chard{
+	font: 500 13px/20px 'Open Sans', Helvetica, sans-serif;
+	display: inline-block;
+	overflow: hidden;
+	padding-left: 44px;
+}
+
+.chard li{
+	font-weight: normal;
+	color: #797979;
+	padding-bottom: 18px;
+}
+.chard span{
+	color:#414141;
+	padding-left: 9px;
+}
+.chard strong{
+	font: 600 14px/20px 'Open Sans', Helvetica, sans-serif;
+}
+.big_chard_item{
+	padding-left: 15px;
+}
+.big_chard_item2{
+	padding-top: 18px;
+	border-top: #f6f6f6 solid 2px;
+	font: 400 13px/20px 'Open Sans', Helvetica, sans-serif;
+}
+.big_chard_item2 p{
+	margin-top: 10px;
+}
+.big_chard_item2:first-child{
+	border: none;
+	padding-top: 25px;
+}
+.big_chard_item{display:block;}
+.left_tabl{
+	overflow: hidden;
+	float: left;
+	width: 162px;
+}
+.right_tabl{
+	font: 600 13px/24px 'Open Sans', Helvetica, sans-serif;
+	overflow: hidden;
+	padding-bottom: 9px;
+	float: right;
+	width: 823px;
+	color: #414141;
+}

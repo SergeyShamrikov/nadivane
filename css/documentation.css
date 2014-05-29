@@ -1,0 +1,22 @@
+.documentation .headline{
+	margin-bottom: 0;
+}
+#tabs2 .tabs_list_it{
+	width: 50%;
+}
+.ui-accordion .accordion_title{
+	font: 700 16px/22px 'Exo 2', sans-serif;
+	color: #414141;
+	background-color: #f6f6f6;
+	padding: 17px 23px;
+}
+.ui-accordion .accordion_title:hover{background-color: #efefef;}
+#tabs2 .tabs_list{margin-bottom: 0;}
+.accordion_it p{
+	font-size: 13px;
+	line-height: 24px;
+	color: #414141;
+	padding: 10px 22px 30px;
+}
+.pad22{padding: 22px 0 22px;}
+.line-h24{line-height: 24px;}

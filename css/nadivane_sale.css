@@ -1,0 +1,116 @@
+@import url(nadivane_sale.css);
+.vacancy_more{
+	color: #998972;
+	background: url(../images/vacancy_more_arr.png) right 10px no-repeat;
+	font: 500 14px/24px 'Exo 2', sans-serif;
+	font-style: normal;
+	padding: 0 20px 0;
+	text-transform: none;
+	margin-right: 25px;
+}
+.headline{
+padding: 19px 0px 15px 30px;
+border-bottom: 2px solid #f6f6f6;
+font: 600 18px 'Exo 2', sans-serif;
+text-transform: uppercase;
+color: #594a47;
+margin-bottom: 0;
+}
+.ml20{padding-left: 20px;}
+.pt10{padding-top: 15px;}
+.mb10{margin-bottom: 10px;}
+.img-stock{
+	float: left;
+	overflow: hidden;
+}
+.img_main-text{
+	font: 16px/24px 'Exo 2', sans-serif; 
+	color: #998972;
+	margin: 0;
+}
+.sale_stock{
+	padding-left: 30px;
+	padding-right: 22px;
+	padding-bottom: 41px;
+}
+.sale_stock:first-child{padding-top: 21px;}
+.sale_stock-col1{
+	width: 37.40831295843521%;
+	overflow: hidden;
+}
+.sale_stock-col1 img{width: 100%;}
+.sale_stock-col2{
+	padding-left: 24px;
+	width: 62.59168704156479%;
+}
+.mind{
+	background: url("../images/icn-stat2.png") 0 0 no-repeat;
+	width: 16px;
+	padding-left: 23px;
+	height: 14px;
+}
+.like{
+	background: url("../images/icn-like2.png") 0 0 no-repeat;
+	width: 16px;
+	padding-left: 21px;
+	height: 16px;
+	margin-left: 43px;
+}
+.star_gray {
+	display: inline-block;
+	height: 14px;
+	width: 83px;
+	background: url(../images/star_gray_icon.png) 0 0 repeat-x;
+	margin-top: 0;
+	margin-left: 10px;
+}
+.overall_rating {
+	display: block;
+	color: #858585;
+	font: 300 13px/24px 'Exo 2', sans-serif;
+	padding-top: 13px;
+}
+.sale_stock-text{
+	font: 600 13px/24px 'Open Sans', Helvetica, sans-serif;
+	padding-top: 10px;
+	margin-bottom: 0;
+	color:#414141 ;
+	width: 100%;
+}
+.fat span{color: #9e9e9e;}
+
+
+
+@media only screen and (max-width: 1040px) {
+ body{min-width:940px;}
+ .sale_stock{overflow: hidden;}
+ .sale_stock-col1{width: 41.23076923076923%;}
+ .sale_stock-col2{float: right;width: 58.76923076923077%; }
+
+}
+
+
+@media only screen and (max-width: 959px) {
+ body{min-width:761px;}
+ .sale_stock-col1{width:52.44618395303327%;}
+ .sale_stock-col2{width:47.55381604696673%;}
+ .sale_stock-text{width: 100%;}
+ .overall_rating{width: 100%;}
+ .w100{width: 100%;}
+ .padl0{padding-left: 0;}
+ .fat{padding-top: 30px;}
+}
+
+@media only screen and (max-width: 760px) {
+ body{min-width:460px;}
+ .w42p{width: 42% !important;}
+ .sale_stock-col1{width: 55%;}
+ .sale_stock-col2{width: 100%;padding: 0;}
+ .fat {padding-top: 15px;}
+}
+
+@media only screen and (max-width: 459px) {
+ body{min-width:300px;}
+ .sale_stock-col1{width: 100%;}
+ .sale_stock-col2{width: 100% !important;padding: 0;}
+}

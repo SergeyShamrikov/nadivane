@@ -1,0 +1,54 @@
+@import url(nadivane_map.css);
+
+#content{padding: 20px 0 66px;}
+.map{margin-bottom: 30px;}
+.pb55{padding-bottom: 55px;}
+.mb{margin-bottom: 30px;}
+.b2{border-bottom: 2px solid #f6f6f6;}
+.ml-50{margin-left: -38px;}
+.box_item{
+	margin-left: 65px;
+	float: left;
+}
+.box_item-col{padding-left: 0;}
+.box_item h5{
+	font: 600 15px/20px 'Open Sans', Helvetica, sans-serif;
+	color: #998972;
+	border-bottom : #efeeed 2px solid;
+	padding-bottom: 15px;
+}
+.box_item-page{
+	background: url("../images/ball_map.png") 3% 50% no-repeat;
+	border-radius: 100%;
+	padding-left: 10px;
+	color:#998972;
+	margin-bottom: 8px;
+}
+.box_item-page a{padding-left: 14px;}
+
+
+
+
+
+@media only screen and (max-width: 1040px) {
+ body{min-width:940px;}
+ 
+
+}
+
+
+@media only screen and (max-width: 959px) {
+ body{min-width:761px;}
+
+
+}
+
+@media only screen and (max-width: 760px) {
+ body{min-width:460px;}
+
+}
+
+@media only screen and (max-width: 459px) {
+ body{min-width:300px;}
+		
+}

@@ -1,0 +1,260 @@
+/********************* content   *********************/
+.ml30{margin-left: 30px;}
+.w140{width: 140px !important;}
+.ml3{margin-left: 3px;}
+.mr30{margin-right: 30px;}
+.our1{
+	width: 57.69230769230769%;  
+	padding-right: 33px; 
+	padding-top: 26px; 
+	padding-left: 30px;
+}
+.part1{
+	width: 427px; 
+	padding-left: 0; 
+}
+.pat33{padding-top: 33px !important;}
+.pat37{padding-top: 37px !important;}
+.our3{
+	width: 42.30769230769231%;
+	border-left: 2px solid #f6f6f6;
+	padding-left: 36px;
+	padding-top: 20px;
+	padding-right: 30px;
+}  
+.img-text{
+	font-size: 13px;
+	line-height: 24px;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	margin-top: 23px;
+}
+.vacancy_img{
+	width: 100%;
+}
+.notes-write2{
+	color: #826d63;
+	font-size: 16px;
+	font-family: 'Exo 2', sans-serif;
+	font-weight: 700; 
+	margin-top: 0;  
+	margin-bottom: 0; 
+}
+.ring2{
+	width: 70px !important;
+	margin-left: 11px;
+}
+.mt-2{margin-top: -2px;}
+.btn_sub {
+	margin-bottom: 10px !important;
+}
+.button2{
+	height: 42px;
+	font: 700 12px/42px 'Exo 2', sans-serif;
+	background-color: #99896f;
+	border: none;
+	outline: none;
+	color: #fff;
+	text-align: center;
+}
+.button2:hover{
+		background-color: #7b6856;
+}
+.rur{
+	font: 600 13px 'Exo 2', sans-serif;
+	color: #816d63;
+	margin-top: 13px;
+	display: inline-block;
+	padding-left: 11px;
+}
+.vacancy_no.enter{margin-bottom: 27px !important;}
+.vacancy_no.contacts_label{
+	display: block;
+	color: #826d63;
+	font-size: 13px;
+	line-height: 18px;
+	font-weight: 600;	
+	padding: 25px 0 5px;
+}
+.btn_sub {
+width: 42.8571%;
+}
+.jq-file__browse{
+	float: left;
+	width: 139px;
+	font: 700 13px/42px 'Exo 2', sans-serif;
+	font-weight: 600;
+	background-color: #99896f;
+	border: none;
+	outline: none;
+	color: #edeae7;
+	text-align: center;
+	cursor: pointer;
+}
+.jq-file:hover .jq-file__browse{background-color: #c3b297;}
+
+.jq-file__name {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	float: right;
+	padding-left: 25px;
+	color: #333;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	background: #FFF;
+	padding-top: 12px;   
+	background: url(../images/x.png) 8% 80% no-repeat; 
+	margin-left: 27px;
+}
+.hasDatepicker{margin-right: 10px;}
+
+
+/*==================================RESPONSIVE LAYOUTS===============================================*/
+@media only screen and (max-width: 1040px) {
+ body{min-width:940px;}
+ .our1{
+ 	width: 100%;
+ 	float: none;
+ 	padding-right: 50px;
+ 	border-bottom: 2px solid #f6f6f6;
+ 	padding-bottom: 31px;
+ 	padding-left: 17px;
+ }
+ .vacancy_img{
+ 	width: 60%;
+ 	float: left;
+ 	padding-right: 34px;
+ }
+
+ .img-text{
+ 	width: 39%;
+ 	margin-top: 0px;
+  	float: right;
+}
+ .our3{
+ 	width: 100%;
+ 	float: none;
+	padding-top: 25px;
+	padding-left: 21px;
+	padding-right: 0;
+ }
+ .worksheet_left{
+ 	float: left;
+ 	width: 46.56488549618321%;
+ }
+ 
+ .worksheet_right{
+ 	float: left;
+ 	width: 53.43511450381679%;
+ 	padding-left: 37px;
+ }
+ .rur{margin-right: 206px;}
+ 
+ .vacancy_no.button1{
+ 	margin-right: 10px;
+ }
+ #worksheet .btn_sub {
+	float: right;
+ 	margin-top: 0px; 
+ 	margin-right: 0px;
+}
+ .knob1{width: 46.56488549618321%;}
+ .knob1 .enter {margin-bottom: 43px !important;}
+}
+
+
+
+@media only screen and (max-width: 959px) {
+ body{min-width:761px;}
+ .our3{
+ 	width: 100%;
+ 	float: none;
+	padding-top: 25px;
+	padding-left: 21px;
+	padding-right: 0;
+ }
+ .worksheet_left{
+ 	float: left;
+ 	width: 59.47075208913649%;
+ }
+ 
+ .worksheet_right{
+ 	float: left;
+ 	width: 40.52924791086351%;
+ 	padding-left: 37px;
+ }
+ .knob1{width: 59.47075208913649%;}
+ .jq-file__name{
+ 	float:none;
+ 	position: absolute;
+ 	left: 0;
+ 	bottom: -30px;
+ 	margin-left: 0;
+ 	background-position: 0 80%;
+ 	padding-left: 20px;
+ }
+ .rur {
+	margin-right: 0px;
+	margin-left: 10px;
+	float: none;
+	display: inline-block;
+ }
+ .our1 {
+	width: 100%;
+	float: none;
+	padding-right: 20px;
+	border-bottom: 2px solid #f6f6f6;
+	padding-bottom: 31px;
+	padding-left: 17px;
+ }
+ .vacancy_img {
+	width: 60%;
+	float: left;
+	padding-right: 23px;
+ }
+.jq-file{position: relative;overflow: visible !important;}
+}
+
+@media only screen and (max-width: 760px) {
+ body{min-width:460px;}
+ .our1 {
+	width: 100%;
+	float: none;
+	padding-right: 17px;
+	border-bottom: 2px solid #f6f6f6;
+	padding-bottom: 31px;
+	padding-left: 17px;
+ }
+ .vacancy_img {
+	width: 100%;
+	float: left;
+	padding-right: 5px;
+ }
+ .img-text {
+	width: 100%;
+	margin-top: 0px;
+	float: right;
+	padding-top: 10px;
+}
+ .worksheet_left{
+ 	float: left;
+ 	width: 95%;
+ 	padding-right: 16px;
+ }
+ .worksheet_right{
+ 	float: left;
+ 	width: 50%;
+ 	padding-left: 0px;
+ }
+ .knob1>label{padding-top: 51px;}
+ .enter{margin-right: 15px;}
+}
+
+@media only screen and (max-width: 459px) {
+ body{min-width:300px;}
+ .rur{
+ 	margin-left: 0;
+ 	padding-left: 11px;
+ }
+ .jq-file__name{position: absolute;}
+	
+}
