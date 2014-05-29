@@ -182,8 +182,8 @@ label[for="amount2"]{padding-left: 10px;}
 	text-align: center;
 	float: left;
 	width: 33.33333333333%;
-	border-left: 2px solid #f6f6f6;
-	border-bottom: 2px solid #f6f6f6;
+	border: 2px solid #f6f6f6;
+	border-right:none; 
 }
 .color_list{
 	list-style: none;

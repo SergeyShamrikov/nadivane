@@ -3,7 +3,7 @@
 
 <?php include("main_blocks/head.php") ?>
 
-<body class="catalog_main catalog_section">
+<body class="catalog_main catalog_section nadivane_fact">
 
 <!-- =========================>>> HEADER <<<============================= -->
 
@@ -100,7 +100,7 @@
                 <div class="sidebar_box1 b-white">
                     <h2 class="headline">О фабрике</h2>
                     <div class="sidebar_text1">
-                        <img src="images/logo_natisa.png" alt="picture">
+                        <img class="max_widt" src="images/logo_natisa.png" alt="picture">
                         <p>
                             Natisa – это новый бренд фабрики Effezeta (Эффезета), расположенной на северо-востоке Италии в городе Удине. 
                         <p>
@@ -123,7 +123,7 @@
                                 <a href="index.html" class="breadcrumbs_lk"></a>
                             </li>
                             <li class="breadcrumbs_it">
-                                <span class="breadcrumbs_current">Каталог</span>
+                                <a href="about_company.html" class="breadcrumbs_lk">Каталог</a>
                             </li>
                             <li class="breadcrumbs_it">
                                 <a href="about_company.html" class="breadcrumbs_lk">Фабрики</a>

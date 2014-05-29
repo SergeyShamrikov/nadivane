@@ -6,7 +6,7 @@
 .wrapper1{overflow: hidden;}
 
 
-.all-factory .search{
+.factory_item .search{
 	width: 223px;
 	border-top:none; 
 	padding: 0px 0 0 0; 
@@ -14,7 +14,7 @@
 	margin: 0;	
 	display: inline-block;
 }
-.all-factory .search input[type="text"] {
+.factory_item .search input[type="text"] {
 	border: 2px solid #e7e3dd;
 	background-color: #fff;
 	margin: 0px 0 0;
@@ -37,7 +37,7 @@
 	padding: 14px 14px 0 32px;
 	color: #a6a6a6;
 }
-.all-factory .search input[type="submit"] {
+.all-factory .search1 input[type="submit"] {
 	background: url("../images/bttn-search.png") no-repeat 50% 65%;
 	width: 40px;
 	height: 38px;
@@ -153,7 +153,7 @@
 
 .all-factory .q_goods{
 	position: absolute;
-	top: 115px;
+	bottom: 20px;
 	width: 100%;
 	font-size: 13px;
 	line-height: 24px;

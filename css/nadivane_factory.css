@@ -29,7 +29,9 @@
 .darr_lk{
 	padding-left: 10px;
 }
-.factory_title1{
+.max_widt{max-width: 100%;}
+.nadivane_fact .factory_title1{
 	font: 600 20px/23px 'Exo 2', sans-serif;
 	padding-left: 20px;
+	margin: 26px 0 26px 0;
 }

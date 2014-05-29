@@ -225,7 +225,7 @@
                                 <tbody>
                                     <tr>
                                         <td class="catalog_table_cell1">
-                                            <div class="catalog_table_it p_rel" >
+                                            <div class="catalog_table_it p_rel maxheight" >
                                                 <a href="catalog_categories.html" class="catalog_categories_lk">
                                                     <i class="img-niere"></i>
                                                     <span class="q_goods"><span>1 056</span>товаров</span>
@@ -233,7 +233,7 @@
                                             </div>
                                         </td>   
                                         <td class="catalog_table_cell2">
-                                            <div class="catalog_table_it p_rel" >
+                                            <div class="catalog_table_it p_rel maxheight" >
                                                 <ul class="catalog_categories_list clearfix1">
                                                     <li class="catalog_categories_it">
                                                         <a href="#" class="catalog_categories_lk">Диваны</a>
@@ -243,7 +243,7 @@
                                             </div>
                                         </td>
                                         <td class="catalog_table_cell3">
-                                            <div class="catalog_table_it clearfix1" >
+                                            <div class="catalog_table_it clearfix1 maxheight" >
                                                 <figure class="catalog_table_img f_left">
                                                     <img src="images/img-diwan1.jpg" alt="">
                                                 </figure>
@@ -264,7 +264,7 @@
                                     </tr>
                                     <tr>
                                         <td class="catalog_table_cell1">
-                                            <div class="catalog_table_it p_rel" >
+                                            <div class="catalog_table_it p_rel maxheight" >
                                                 <a href="catalog_categories.html" class="catalog_categories_lk">
                                                     <i class="img-natisa"></i>
                                                     <span class="q_goods"><span>2 151</span>товаров</span>
@@ -272,7 +272,7 @@
                                             </div>
                                         </td>   
                                         <td class="catalog_table_cell2">
-                                            <div class="catalog_table_it p_rel" >
+                                            <div class="catalog_table_it p_rel maxheight" >
                                                 <ul class="catalog_categories_list clearfix1">
                                                     <li class="catalog_categories_it">
                                                         <a href="#" class="catalog_categories_lk">Обеденные столы</a>
@@ -288,7 +288,7 @@
                                             </div>
                                         </td>
                                         <td class="catalog_table_cell3">
-                                            <div class="catalog_table_it p_rel clearfix1" >
+                                            <div class="catalog_table_it p_rel clearfix1 maxheight" >
                                                 <figure class="catalog_table_img f_left">
                                                     <img src="images/img-diwan2.jpg" alt="">
                                                 </figure>
@@ -307,7 +307,7 @@
                                     </tr>
                                     <tr>
                                         <td class="catalog_table_cell1">
-                                            <div class="catalog_table_it p_rel" >
+                                            <div class="catalog_table_it p_rel maxheight" >
                                                 <a href="catalog_categories.html" class="catalog_categories_lk">
                                                     <i class="img-idealsedia"></i>
                                                     <span class="q_goods"><span>1 056</span>товаров</span>
@@ -315,7 +315,7 @@
                                             </div>
                                         </td>   
                                         <td class="catalog_table_cell2">
-                                            <div class="catalog_table_it p_rel" >
+                                            <div class="catalog_table_it p_rel maxheight" >
                                                 <ul class="catalog_categories_list clearfix1">
                                                     <li class="catalog_categories_it">
                                                         <a href="#" class="catalog_categories_lk">Столы-трансформеры</a>
@@ -326,7 +326,7 @@
                                             </div>
                                         </td>
                                         <td class="catalog_table_cell3">
-                                            <div class="catalog_table_it p_rel clearfix1" >
+                                            <div class="catalog_table_it p_rel clearfix1 maxheight" >
                                                 <figure class="catalog_table_img f_left">
                                                     <img src="images/img-diwan3.jpg" alt="">
                                                 </figure>
@@ -345,7 +345,7 @@
                                     </tr>
                                     <tr>
                                         <td class="catalog_table_cell1">
-                                            <div class="catalog_table_it p_rel" >
+                                            <div class="catalog_table_it p_rel maxheight" >
                                                 <a href="catalog_categories.html" class="catalog_categories_lk">
                                                     <i class="img-serico"></i>
                                                     <span class="q_goods"><span>2 151</span>товаров</span>
@@ -353,7 +353,7 @@
                                             </div>
                                         </td>   
                                         <td class="catalog_table_cell2">
-                                            <div class="catalog_table_it p_rel">
+                                            <div class="catalog_table_it p_rel maxheight">
                                                 <ul class="catalog_categories_list clearfix1">
                                                     <li class="catalog_categories_it">
                                                         <a href="#" class="catalog_categories_lk">Обеденные столы</a>
@@ -366,7 +366,7 @@
                                             </div>
                                         </td>
                                         <td class="catalog_table_cell3">
-                                            <div class="catalog_table_it p_rel clearfix1">
+                                            <div class="catalog_table_it p_rel clearfix1 maxheight">
                                                 <figure class="catalog_table_img f_left">
                                                     <img src="images/img-diwan4.jpg" alt="">
                                                 </figure>
@@ -385,7 +385,7 @@
                                     </tr>
                                     <tr>
                                         <td class="catalog_table_cell1">
-                                            <div class="catalog_table_it p_rel">
+                                            <div class="catalog_table_it p_rel maxheight">
                                                 <a href="catalog_categories.html" class="catalog_categories_lk">
                                                     <i class="img-colorislife"></i>
                                                     <span class="q_goods"><span>2 151</span>товаров</span>
@@ -393,7 +393,7 @@
                                             </div>
                                         </td>   
                                         <td class="catalog_table_cell2">
-                                            <div class="catalog_table_it p_rel">
+                                            <div class="catalog_table_it p_rel maxheight">
                                                 <ul class="catalog_categories_list clearfix1">
                                                     <li class="catalog_categories_it">
                                                         <a href="#" class="catalog_categories_lk">Обеденные столы</a>
@@ -406,7 +406,7 @@
                                             </div>
                                         </td>
                                         <td class="catalog_table_cell3">
-                                            <div class="catalog_table_it p_rel clarfix1">
+                                            <div class="catalog_table_it p_rel clarfix1 maxheight">
                                                 <figure class="catalog_table_img f_left">
                                                     <img src="images/img-diwan5.jpg" alt="">
                                                 </figure>
@@ -425,7 +425,7 @@
                                     </tr>
                                     <tr>
                                         <td class="catalog_table_cell1">
-                                            <div class="catalog_table_it p_rel">
+                                            <div class="catalog_table_it p_rel maxheight">
                                                 <a href="catalog_categories.html" class="catalog_categories_lk">
                                                     <i class="img-optimata"></i>
                                                     <span class="q_goods"><span>2 151</span>товаров</span>
@@ -433,7 +433,7 @@
                                             </div>
                                         </td>   
                                         <td class="catalog_table_cell2">
-                                            <div class="catalog_table_it p_rel">
+                                            <div class="catalog_table_it p_rel maxheight">
                                                 <ul class="catalog_categories_list clearfix1">
                                                     <li class="catalog_categories_it">
                                                         <a href="#" class="catalog_categories_lk">Столы-трансформеры</a>
@@ -444,7 +444,7 @@
                                             </div>
                                         </td>
                                         <td class="catalog_table_cell3">
-                                            <div class="catalog_table_it p_rel clearfix1">
+                                            <div class="catalog_table_it p_rel clearfix1 maxheight">
                                                 <figure class="catalog_table_img f_left">
                                                     <img src="images/img-diwan6.jpg" alt="">
                                                 </figure>
@@ -463,7 +463,7 @@
                                     </tr>
                                     <tr>
                                         <td class="catalog_table_cell1">
-                                            <div class="catalog_table_it p_rel">
+                                            <div class="catalog_table_it p_rel maxheight">
                                                 <a href="catalog_categories.html" class="catalog_categories_lk">
                                                     <i class="img-cilek"></i>
                                                     <span class="q_goods"><span>1 056</span>товаров</span>
@@ -471,7 +471,7 @@
                                             </div>
                                         </td>   
                                         <td class="catalog_table_cell2">
-                                            <div class="catalog_table_it p_rel">
+                                            <div class="catalog_table_it p_rel maxheight">
                                                 <ul class="catalog_categories_list clearfix1">
                                                     <li class="catalog_categories_it">
                                                         <a href="#" class="catalog_categories_lk">Детские кровати</a>
@@ -496,7 +496,7 @@
                                             </div>
                                         </td>
                                         <td class="catalog_table_cell3">
-                                            <div class="catalog_table_it p_rel clearfix1">
+                                            <div class="catalog_table_it p_rel clearfix1 maxheight">
                                                 <figure class="catalog_table_img f_left">
                                                     <img src="images/img-diwan7.jpg" alt="">
                                                 </figure>
