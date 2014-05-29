@@ -14,7 +14,7 @@ $(document).ready(function(){
     $( ".tabs_box" ).tabs();
     $('select, input').styler();
     $( "#accordion" ).accordion();
-    // $('.rating').rating();
+    $('.rating1').rating();
     $( "#datepicker" ).datepicker({
       showOn: "button",
       buttonImage: "images/data_icon.png",

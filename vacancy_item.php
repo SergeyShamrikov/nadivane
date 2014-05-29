@@ -17,13 +17,13 @@
             <div class="col-lg-12">
                 <ul class="breadcrumbs">
                     <li class="breadcrumbs_it">
-                        <a href="index.html" class="breadcrumbs_lk"></a>
+                        <a href="index.php" class="breadcrumbs_lk"></a>
                     </li>
                     <li class="breadcrumbs_it">
-                        <a href="about_company.html" class="breadcrumbs_lk">О компании</a>
+                        <a href="about_company.php" class="breadcrumbs_lk">О компании</a>
                     </li>
                     <li class="breadcrumbs_it">
-                        <a href="vacancys.html" class="breadcrumbs_lk">Вакансии</a>
+                        <a href="vacancys.php" class="breadcrumbs_lk">Вакансии</a>
                     </li>
                     <li class="breadcrumbs_it">
                         <span class="breadcrumbs_current">Касир</span>
@@ -100,7 +100,7 @@
                                     Внятную систему принятия решений в магазине.
                                 </li>
                             </ul>
-                            <a href="vacancys.html" class="back_vacancy">Вернуться к списоку вакансий</a>
+                            <a href="vacancys.php" class="back_vacancy">Вернуться к списоку вакансий</a>
                         </div>
                         <div class="vacancy_item_col2 f_left">
                             <h4 class="notes-write2">

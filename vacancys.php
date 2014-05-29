@@ -101,7 +101,7 @@
                                                 Коммуникабельность, доброжелательность, грамотная речь и обаятельная улыбка.
                                             </li>
                                         </ul>
-                                        <a href="vacancy_item.html" class="vacancy_more">Подробнее</a>
+                                        <a href="vacancy_item.php" class="vacancy_more">Подробнее</a>
                                     </div>
                                 </div>
                                 <h3 class="accordion_title">3. Секретарь</h3>
@@ -131,7 +131,7 @@
                                                 Коммуникабельность, доброжелательность, грамотная речь и обаятельная улыбка.
                                             </li>
                                         </ul>
-                                        <a href="vacancy_item.html" class="vacancy_more">Подробнее</a>
+                                        <a href="vacancy_item.php" class="vacancy_more">Подробнее</a>
                                     </div>
                                 </div>
                                 <h3 class="accordion_title">4. Кладовщик</h3>
@@ -161,7 +161,7 @@
                                                 Коммуникабельность, доброжелательность, грамотная речь и обаятельная улыбка.
                                             </li>
                                         </ul>
-                                        <a href="vacancy_item.html" class="vacancy_more">Подробнее</a>
+                                        <a href="vacancy_item.php" class="vacancy_more">Подробнее</a>
                                     </div>
                                 </div>
                             </div>
