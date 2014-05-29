@@ -14,7 +14,7 @@
 <div id="content">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <ul class="breadcrumbs clearfix">
                     <li class="breadcrumbs_it">
                         <a href="index.html" class="breadcrumbs_lk"></a>
@@ -26,14 +26,14 @@
             </div>  
         </div>
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             
                 <?php include("components/menu_about.php") ?>
 
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="about_company wrapper">
                     <div class="company b-white mb">
                         <h2 class="headline">О КОМПАНИИ</h2>
@@ -58,30 +58,30 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12">
-                <div class="carousel-banners b-white ml-hidden460">
-                    <div class="jcarousel-wrapper">
-                        <div class="jcarousel">
-                            <ul>
-                                <li><a href="#"><img src="images/partner1.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="images/partner2.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="images/partner3.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="images/partner4.jpg" alt=""></a></li>
-                
-                                <li><a href="#"><img src="images/partner1.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="images/partner2.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="images/partner3.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="images/partner4.jpg" alt=""></a></li>
-                            </ul>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="carousel-banners b-white ml-hidden460">
+                        <div class="jcarousel-wrapper">
+                            <div class="jcarousel" data-jcarousel="true">
+                                <ul style="left: -759px; top: 0px;">
+                                    <li style="width: 253px;"><a href="#"><img src="images/partner1.jpg" alt=""></a></li>
+                                    <li style="width: 253px;"><a href="#"><img src="images/partner2.jpg" alt=""></a></li>
+                                    <li style="width: 253px;"><a href="#"><img src="images/partner3.jpg" alt=""></a></li>
+                                    <li style="width: 253px;"><a href="#"><img src="images/partner4.jpg" alt=""></a></li>
+                    
+                                    <li style="width: 253px;"><a href="#"><img src="images/partner1.jpg" alt=""></a></li>
+                                    <li style="width: 253px;"><a href="#"><img src="images/partner2.jpg" alt=""></a></li>
+                                    <li style="width: 253px;"><a href="#"><img src="images/partner3.jpg" alt=""></a></li>
+                                    <li style="width: 253px;"><a href="#"><img src="images/partner4.jpg" alt=""></a></li>
+                                </ul>
+                            </div>
+                    
+                            <a href="#" class="jcarousel-control-prev" data-jcarouselcontrol="true"><span></span></a>
+                            <a href="#" class="jcarousel-control-next" data-jcarouselcontrol="true"><span></span></a>
+                    
+                            <p class="jcarousel-pagination" data-jcarouselpagination="true"><a href="#1">1</a><a href="#2">2</a><a href="#3">3</a><a href="#4" class="active">4</a><a href="#5">5</a><a href="#6">6</a><a href="#7">7</a><a href="#8">8</a></p>
                         </div>
-                
-                        <a href="#" class="jcarousel-control-prev"><span></span></a>
-                        <a href="#" class="jcarousel-control-next"><span></span></a>
-                
-                        <p class="jcarousel-pagination"></p>
                     </div>
                 </div>
-            </div>
         </div>
     </div>
 </div>

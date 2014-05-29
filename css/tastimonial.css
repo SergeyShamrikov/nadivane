@@ -157,8 +157,12 @@
 	color: #392f2c;
 	font-weight: 600;
 }
-
-.rating{display: inline-block; /*margin-top: 6px;*/}
+div .vote-result{padding-left: 0;}
+.testimonial .rating1{
+	display: inline-block;
+	margin-top: 0px;
+	padding: 5px 0 0 10px;
+}
 .vote-stars,.vote-active{height: 15px !important;}
 .testimonial .swiper-slide{padding: 0;text-align: left;}
 .swiper-container{height: auto;padding-bottom: 32px;}
@@ -222,7 +226,7 @@
  .write_review{margin-right: 10px;}
  .h112{margin-bottom: 20px;}
  .contacts_label{padding: 0;}
- .tabs_list2_it{/*padding: 0;*/}
+ .tabs_list2_it{padding: 0;}
  .tabs_list2_it:last-child{padding-top: 50px;}
  .testimonial .leave_com_right{
  	padding-top: 27px;
@@ -239,6 +243,7 @@
 	padding-left: 18px;
 	width: 80%;
 }
+.tabs_list2{padding-left: 0;}
 }
 
 

@@ -28,7 +28,7 @@
 <div id="content">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="box1 b-white">
                       <h2 class="headline">Доставка на дом</h2>
                       <div id="tabs2" class="tabs_box ui-tabs-panel">

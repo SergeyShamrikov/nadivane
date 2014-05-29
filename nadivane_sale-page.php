@@ -15,7 +15,7 @@
 <div id="content">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                 <div class="sidebar_menu vertical-nav purple_bg">
                     <ul class="sidebar_list">
                         <li class="sidebar_list_it">
@@ -96,9 +96,9 @@
                     </a>
                 </div>
             </div>
-            <div class="col-lg-9">
+            <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <ul class="breadcrumbs">
                             <li class="breadcrumbs_it">
                                 <a href="index.html" class="breadcrumbs_lk"></a>
@@ -118,7 +118,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <article class="catalog_box b-white">
                             <h2 class="headline">
                                 Неделя в Тайланде для всей семьи при покупке мебели на сумму более 100000 рублей
@@ -184,7 +184,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <article class="categories_box b-white mb29">
                             <h2 class="headline clearfix1">
                                 Товары участвующие в акции
@@ -537,7 +537,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="slider mb">
                             <div class="jcarousel-wrapper">
                                 <div class="jcarousel" data-jcarousel="true">
@@ -597,7 +597,7 @@
             </div>
         </div>    
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="subscribe-form ml-hidden460 mb10">
                     <form action="#">
                         <div class="col left txt-right">

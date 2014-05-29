@@ -15,7 +15,7 @@
 <div id="content">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <ul class="breadcrumbs">
                     <li class="breadcrumbs_it">
                         <a href="index.html" class="breadcrumbs_lk"></a>
@@ -28,14 +28,15 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-lg-12">
+        </div>    
+        <div class="row">   
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 
                 <?php include("components/menu_about.php") ?>
-
             </div>
         </div>
         <div class="contacts_box row">
-            <div class="col-lg-6">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                 <div class="contacts_box_col1 b-white">
                     <div id="tabs" class="tabs_box">
                         <ul class="tabs_list">
@@ -162,7 +163,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                 <div class="contacts_box_col2 b-white">
                     <div id="tabs1" class="tabs_box">
                         <ul class="tabs_list">

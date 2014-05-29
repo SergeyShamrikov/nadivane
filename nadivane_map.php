@@ -11,7 +11,7 @@
 <div id="content">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <ul class="breadcrumbs">
                     <li class="breadcrumbs_it">
                         <a href="index.html" class="breadcrumbs_lk"></a>
@@ -21,7 +21,9 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-lg-12">    
+        </div>    
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">    
                 <div class="map">
                     <div class="map_box b-white">
                         <h4 class="header-section b2">Карта сайта</h4>
@@ -84,7 +86,7 @@
             </div>
         </div>       
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="subscribe-form ml-hidden460 mb">
                     <form action="#">
                         <div class="col left txt-right">

@@ -15,8 +15,8 @@
 <!-- =========================>>> CONTENT <<<============================= -->
 <div id="content">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-3">
+        <div class="row marb30">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                 <div class="sidebar_menu vertical-nav purple_bg">
                     <ul class="sidebar_list">
                         <li class="sidebar_list_it">
@@ -97,9 +97,9 @@
                     </a>
                 </div>
             </div>
-            <div class="col-lg-9">
+            <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <ul class="breadcrumbs">
                             <li class="breadcrumbs_it">
                                 <a href="index.html" class="breadcrumbs_lk"></a>
@@ -114,7 +114,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="flexslider">
                             <ul class="slides clearfix1">
                                 <li class="flex_it clearfix1 p_rel">
@@ -200,7 +200,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <article class="catalog_box b-white">
                             <h2 class="headline">Фабрики
                             </h2>
@@ -521,7 +521,7 @@
             </div>
         </div>        
         <div class="row">   
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="subscribe-form ml-hidden460 mb10">
                         <form action="#">
                             <div class="col left txt-right">

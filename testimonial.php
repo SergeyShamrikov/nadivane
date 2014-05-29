@@ -14,7 +14,7 @@
 <div id="content">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <ul class="breadcrumbs">
                     <li class="breadcrumbs_it">
                         <a href="index.html" class="breadcrumbs_lk"></a>
@@ -29,14 +29,14 @@
             </div>    
         </div>    
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 
                 <?php include("components/menu_about.php") ?>
 
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <section class="testimonial_box b-white">
                     <h2 class="headline">отзывы</h2>
                     <p class="text1">Здесь Вы можете оставить Ваш отзыв и предложить рекомендации по улучшению магазина. Каждый отзыв обрабатывается нашими менеджерами и Вы всегда получили ответ, если этого требует Ваш отклик. Мы дорожим своими клиентами и стараемся делать их покупки максимально комфортными.</p>
@@ -223,7 +223,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <section class="leave_comment b-white">
                     <h2 class="headline">Оставить отзыв</h2>
                     <div class="leave_com_box clearfix1">
@@ -251,9 +251,10 @@
                                 <label for="your_message" class="contacts_label padt34">Отзыв</label>
                                 <textarea class="h100 mb15" name="" id="your_message"></textarea>
                                 <div class="clearfix1">
-                                    <span class="your_rating f_left">Ваша оценка
-                                        <div class="rating"></div>
-                                    </span>
+                                    <div class="your_rating f_left clearfix1">
+                                        <span class="f_left">Ваша оценка</span>
+                                    <div class="rating1 f_right"></div>
+                                    </div>
                                     <label for="" class="order_number f_right">
                                         Номер заказа
                                         <input type="text">

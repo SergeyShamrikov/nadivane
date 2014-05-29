@@ -16,7 +16,7 @@
 <div id="content">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <ul class="breadcrumbs">
                     <li class="breadcrumbs_it">
                         <a href="index.html" class="breadcrumbs_lk"></a>
@@ -31,14 +31,14 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                
                 <?php include("components/menu_about.php") ?>
 
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <section class="vacancy_box b-white">
                     <h2 class="headline">вакансии</h2>
                     <div class="clearfix1">
@@ -71,7 +71,7 @@
                                                 Коммуникабельность, доброжелательность, грамотная речь и обаятельная улыбка.
                                             </li>
                                         </ul>
-                                        <a href="vacancy_item.php" class="vacancy_more">Подробнее</a>
+                                        <a href="vacancy_item.html" class="vacancy_more">Подробнее</a>
                                     </div>
                                 </div>
                                 <h3 class="accordion_title">2. Продавец консультант</h3>

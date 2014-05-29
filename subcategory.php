@@ -18,7 +18,7 @@
         <div class="row">
             <a href="javascript:;" class="filter_box_lk"></a>
             <div class="black_bg"></div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                 <div class="filter_box b-white">
                     <h3 class="headline">Подбор по параметрам</h3>
                     <form action="" id="filter">
@@ -177,9 +177,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-9">
+            <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <ul class="breadcrumbs">
                             <li class="breadcrumbs_it">
                                 <a href="index.html" class="breadcrumbs_lk"></a>
@@ -261,7 +261,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="flexslider">
                             <ul class="slides clearfix1">
                                 <li class="flex_it clearfix1 p_rel">
@@ -348,7 +348,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <article class="categories_box b-white">
                             <h2 class="headline">Кровати</h2>
                             <ul class="categories_list clearfix1">
@@ -852,7 +852,7 @@
             </div>
         </div>
         <div class="row">    
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="subscribe-form ml-hidden460 mb">
                     <form action="#">
                         <div class="col left txt-right">

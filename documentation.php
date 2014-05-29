@@ -14,7 +14,7 @@
 <div id="content">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <ul class="breadcrumbs clearfix1">
                     <li class="breadcrumbs_it">
                         <a href="index.html" class="breadcrumbs_lk"></a>
@@ -29,14 +29,14 @@
             </div> 
         </div>
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                
                 <?php include("components/menu_about.php") ?>
 
             </div>
         </div>
         <div class="row">   
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="box1 b-white">
                     <h2 class="headline">Документация</h2>
                     <div id="tabs2" class="tabs_box">
